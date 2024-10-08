@@ -19,3 +19,7 @@
 ## 0.5
 
 - Bug fix by vlkvsky
+
+## 0.5.1
+
+- change to port 8200

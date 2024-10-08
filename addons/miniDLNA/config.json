@@ -2,7 +2,7 @@
     "name": "Minidlna",
     "version": "0.5.2",
     "slug": "minidlna",
-    "description": "MiniDLNA",
+    "description": "MiniDLNA for vlkvsky HUB",
     "url": "https://github.com/vlkvsky/homeassistant",
     "startup": "services",
     "boot": "auto",
@@ -32,5 +32,5 @@
 	"ingress": true,
 
     "panel_icon": "mdi:dlna",
-    "panel_title": "MiniDLNA"
+    "panel_title": "Media Hub"
 }

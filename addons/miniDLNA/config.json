@@ -1,6 +1,6 @@
 {
     "name": "Minidlna",
-    "version": "0.5.1",
+    "version": "0.5.2",
     "slug": "minidlna",
     "description": "MiniDLNA",
     "url": "https://github.com/vlkvsky/homeassistant",
@@ -27,8 +27,8 @@
       "media_dir": "str",
 	  "options": "str"
     },
-        "ingress_port": 9998,
-	"webui": "http://[HOST]:[PORT:9998]",
+        "ingress_port": 8200,
+	"webui": "http://[HOST]:[PORT:8200]",
 	"ingress": true,
 
     "panel_icon": "mdi:dlna",

@@ -1,29 +1,10 @@
 # Changelog
 
-## 0.1
-
-- First version
-
-## 0.2
-
-- Fix repository link
-
-## 0.3
-
-- Add options
-
-## 0.4
-
-- Fix config file for devices
-
-## 0.5
-
-- Bug fix by vlkvsky
+## 0.5.2
+- fix ingress port to 8200
 
 ## 0.5.1
-
 - change to port 8200
 
-## 0.5.2
-
-- fix ingress port to 8200
+## 0.5
+- Bug fix by vlkvsky
